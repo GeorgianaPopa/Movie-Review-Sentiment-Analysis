@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model artifacts
+models/
+*.joblib
+
+# Data splits and generated CSVs
+data/splits/
+data/clean_reviews.csv
+
+# VSCode settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
